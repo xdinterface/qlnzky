@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qlnzky
 - 👀 I’m interested in Frontend Developement
-- 🌱 I’m currently learning Javascript, Typescript, React.js, Flutter, C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript, Typescript and React.js.
+- 💞️ I’m looking to collaborate on smaller projects in my freetime that allow me to evolve my skills.
+- 📫 How to reach me: alankulinski@outlook.com
 
 <!---
 qlnzky/qlnzky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
